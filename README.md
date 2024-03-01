@@ -1,4 +1,4 @@
-# Repositório do Dashboard de RH
+# Repositório do Dashboard de Produção
 
 <div style= 'display: inline_block'><br/>
     <img alt='Power BI' src='https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black'>
