@@ -11,7 +11,7 @@
 É um repositório usado para armazenar o Dashboard o qual foi contruido para uma empresa acompanhar a sua linha de produção no **Intensivo de Power BI** da Hashtag Treinamentos, aulas focadas as na contrução de Dashboards avançados usando o Power BI disponibilizado pela equipe da [Hashtag](https://www.hashtagtreinamentos.com/ "Site da Hashtag")
 
 
-![Dashboard BI]()!
+![Dashboard BI](https://github.com/GTBelini22/DashBoard_Producao_PowerBI-/blob/main/assets/Dashboard%20Producao.png)
 
 # Ferramentas e funções
 - Power BI
